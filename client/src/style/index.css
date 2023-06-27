@@ -1,0 +1,32 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap&family=Lato:wght@100&display=swap');
+
+
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+table,
+td {
+  border: 1px solid rgb(0, 141, 184);
+  text-align: center;
+}
+
+thead {
+  background-color: rgb(47, 67, 255);
+  color: #fff;
+}
+
+th {
+  padding: 5px;
+}
+
+
