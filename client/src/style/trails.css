@@ -1,0 +1,42 @@
+/* Trails */
+
+
+.wholePage{
+  background-color: #f5ffff;
+}
+
+.allTrails{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3% 0%;
+}
+
+.box1-5{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 15px;
+}
+
+.detailButton{
+  cursor: pointer;
+  background-color: #bbdddd;
+
+}
+
+.detailButton:hover {
+  transform: scale(1.1);
+}
+
+
+.backButton{
+  background-color: #68868C;
+  margin-left:3rem;
+  margin-top:3.5rem;
+}
+
+.backButton:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,80 @@
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3% 0%;
+  background-color: #68868C;
+
+
+}
+
+.container-fluid-height{
+  padding: 3% 0%;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.container-fluid-width{
+  padding: 0% 15%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.h1 {
+  padding: 2.5rem 0 1.5rem;
+
+}
+
+.headImage2 {
+  display: flex;
+  margin-top: 5%;
+  margin-bottom:5%;
+  width: 60%;
+  height: 20%;
+
+
+}
+
+.twobuttons {
+  text-align: center;
+
+}
+
+
+.btn-primary {
+  background-color: #bbdddd;
+  color: #68868C;
+  width: 10%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.btn-secondary {
+  margin-top: 20px;
+  background-color: #bbdddd;
+  color: #68868C;
+  width: 10%;
+  height: 50%;
+  margin-bottom: 60px;
+
+
+}
+
+.discoverImage {
+  display: flex;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: 20%;
+  -webkit-text-size-adjust: 50%;
+
+
+}

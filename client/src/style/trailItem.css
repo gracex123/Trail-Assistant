@@ -1,0 +1,43 @@
+/* Trail Item */
+
+
+
+.trailDetail{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3% 0%;
+  background-color: #f5ffff;
+  gap: 1.5em;
+}
+
+
+
+
+ul.trailInfo li {
+  display: flex;
+  padding: 1% 5% 1% 5%;
+  word-wrap: break-word;
+  list-style-type: none;
+  flex-direction : row;
+  justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+  ul.trailInfo li {
+    word-wrap: normal;
+  }
+}
+
+
+
+.backButton{
+  background-color: #68868C;
+  margin-left: 80px;
+  margin-top:3.5rem;
+}
+
+.backButton:hover {
+  transform: scale(1.1);
+}
